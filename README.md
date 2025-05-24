@@ -35,8 +35,8 @@ Postman · GraphQL · SoapUI · SQL · AS400 · Mainframe
 
 ## 🧪 Experience Highlights
 
-### 🏢 Banco Santander (via CDA Informática)  
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/b/b8/Banco_Santander_Logotipo.svg)
+### ![Alt text](https://upload.wikimedia.org/wikipedia/commons/b/b8/Banco_Santander_Logotipo.svg) Banco Santander (via CDA Informática)  
+
 **QA Team Lead**  
 - Managed billing, reports, and team assignments  
 - Mentored and supported junior testers  
