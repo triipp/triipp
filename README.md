@@ -11,7 +11,7 @@
 
 ## 💬 About Me
 
-Hi there! I'm Walter, a QA Analyst with over **10 years** of experience in software testing, working across industries like banking, telecommunications, education, betting, and restaurants.
+Hi there! I'm Walter, a QA Analyst with over **13 years** of experience in software testing, working across industries like banking, telecommunications, education, betting, and restaurants.
 
 I'm passionate about building robust testing processes, identifying critical bugs, and collaborating with development teams to ship better software.
 
